@@ -1,1 +1,2 @@
 activity-day:20774 claimed earendil-works/pi 7191a77f7358
+activity-day:20774 done earendil-works/pi 952252bc9aa9
